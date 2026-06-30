@@ -15,8 +15,6 @@ Git & GitHub | Intermediário | 1 ano |
 ## Minhas Habilidades
 Categoria | Tecnologias | Proficiência |
 :--- | :--- | :---: |
-**Linguagens** | Python, JavaScript |
-Avançado |
-| **Ferramentas** | Git, GitHub, VS Code |
-Intermediário |
+**Linguagens** | Python, JavaScript | Avançado |
+| **Ferramentas** | Git, GitHub, VS Code | Intermediário |
 **Sistemas** | Linux, Windows | Avançado
