@@ -24,6 +24,5 @@ Categoria | Tecnologias | Proficiência |
 -[x] Criar currículo web no GitHub
 -[x] Dominar sintaxe básica do Markdown
 -[ ] Aprender conceitos avançados de versionamento
--[X] Contribuir para um projeto
-Open Source
+-[X] Contribuir para um projeto Open Source
 -[ ] Conquistar a primeira vaga como Desenvolvedor Júnior
