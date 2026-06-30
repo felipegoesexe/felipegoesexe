@@ -18,3 +18,12 @@ Categoria | Tecnologias | Proficiência |
 **Linguagens** | Python, JavaScript | Avançado |
 | **Ferramentas** | Git, GitHub, VS Code | Intermediário |
 **Sistemas** | Linux, Windows | Avançado
+
+
+## Objetivos Atuais e Futuros
+-[x] Criar currículo web no GitHub
+-[x] Dominar sintaxe básica do Markdown
+-[ ] Aprender conceitos avançados de versionamento
+-[X] Contribuir para um projeto
+Open Source
+-[ ] Conquistar a primeira vaga como Desenvolvedor Júnior
