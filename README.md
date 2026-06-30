@@ -2,7 +2,7 @@
 ## Desenvolvedor de Software | Estudante de Tecnologia
 
 
-![Minha Foto] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCR05pLq0OB2eF_5U-u-U-lEXGDbGkzhNj4NgatCXsg&s=10)
+![Minha Foto] (https://avatars.githubusercontent.com/u/291856251?s=400&u=ff431c4225564c77ecc10a299bfb7bd340b0b766&v=4)
 
 Bem-vindo ao meu currículo web. Conecte-se comigo:
 
